@@ -89,6 +89,7 @@ End-to-end **CI/CD pipelines** using Jenkins for automated builds, quality check
 ## 📫 Connect with Me
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/sanketchopade07/
+- 🔗 GitHub: https://github.com/Sanket006
 - 📧 **Email:** sanketchopade6@gmail.com
 
 ---
