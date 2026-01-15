@@ -95,7 +95,7 @@ Base CRUD application demonstrating full-stack functionality.
 
 ## 📫 Contact & Professional Availability
 
-* 💼 **LinkedIn:** *(https://linkedin.com/in/sanketchopade07)*
+* 💼 **LinkedIn:** *(www.linkedin.com/in/sanketchopade07)*
 * 📧 **Email:** *(sanketchopade6@gmail.com)*
 * 🌍 **Availability:** Open to **India-based roles** as well as **International Remote opportunities**
 * ⏰ **Timezone:** IST (UTC+5:30) | Flexible overlap with global teams
