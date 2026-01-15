@@ -40,37 +40,35 @@ I am actively seeking **entry-level / junior DevOps roles** where I can work **w
 
 ### 🔧 DevOps & Cloud Projects (DevOps Journey)
 
-🔹 **End-to-End CI/CD Pipeline (Jenkins + Docker + AWS)**
-Built a complete CI/CD pipeline using Jenkins integrated with GitHub. Automated build, test, Docker image creation, and deployment on AWS EC2 instances.
-**Impact:** Reduced manual deployment effort and enabled faster, repeatable releases with consistent builds.
+🔹 **[Jenkins](https://github.com/Sanket006/Jenkins)**  
+Configured Jenkins pipelines for automated build and delivery workflows using Jenkinsfile, integrated with GitHub.  
+🛠 Tools: Jenkins, GitHub, Shell scripting  
+📌 **Impact:** Reduced manual deployment steps and standardized build processes for multiple apps.
 
-🔹 **CI/CD with GitHub Actions**
-Implemented GitHub Actions workflows for automated builds and Docker image validation on code commits.
-**Impact:** Improved code reliability by catching build issues early through automated checks.
+🔹 **[Terraform](https://github.com/Sanket006/Terraform)**  
+Created reusable Terraform IaC modules for provisioning AWS infrastructure components like VPC, EC2, IAM roles, and S3.  
+🛠 Tools: Terraform, AWS (EC2, VPC, IAM, S3)  
+📌 **Impact:** Enabled consistent, version-controlled cloud provisioning, eliminating manual infra setup errors.
 
-🔹 **Dockerized Application Deployment**
-Containerized applications using Docker with best practices (Dockerfile optimization, image versioning, and environment variables).
-**Impact:** Achieved consistent application behavior across environments and simplified deployments.
+🔹 **[Three-Tier-using-K8s](https://github.com/Sanket006/Three-Tier-using-K8s)**  
+Deployed a three-tier application architecture in Kubernetes clusters (Pods, Services, Deployments).  
+🛠 Tools: Kubernetes, Docker, kubectl  
+📌 **Impact:** Demonstrated scalable deployment of microservices with orchestration and service discovery.
 
-🔹 **Kubernetes Application Deployment**
-Deployed containerized applications on Kubernetes clusters, working with Pods, Deployments, Services, and basic scaling concepts.
-**Impact:** Improved application scalability and availability using container orchestration.
+🔹 **[Three-Tier-using-Docker](https://github.com/Sanket006/Three-Tier-using-Docker)**  
+Built and managed containerized multi-tier applications using Docker.  
+🛠 Tools: Docker, Docker Compose  
+📌 **Impact:** Achieved environment consistency and simplified local/test deployments across services.
 
-🔹 **Terraform – AWS Infrastructure Provisioning**
-Provisioned AWS resources such as EC2, VPC, IAM roles, and S3 buckets using modular Terraform code following IaC principles.
-**Impact:** Enabled repeatable and version-controlled infrastructure setup, reducing configuration errors.
+🔹 **[EASY_CRUD](https://github.com/Sanket006/EASY_CRUD)**  
+Forked and enhanced a CRUD project with a working Jenkins CI pipeline.  
+🛠 Tools: Jenkins, GitHub, JavaScript/Node  
+📌 **Impact:** Integrated automated build/test into an existing app, improving reliability of commits.
 
-🔹 **Linux Automation & Shell Scripting**
-Wrote shell scripts for automation tasks including backups, log cleanup, disk monitoring, and system health checks.
-**Impact:** Reduced manual operational tasks and improved system reliability.
-
-🔹 **AWS Core Services Hands-on Projects**
-Worked extensively with EC2, IAM, S3, VPC, and CloudWatch, focusing on security, monitoring, and cost-awareness.
-**Impact:** Built a strong foundation in secure and monitored cloud environments.
-
-🔹 **Monitoring & Observability (Basics)**
-Explored monitoring concepts using AWS CloudWatch and introductory exposure to Prometheus & Grafana for metrics visualization.
-**Impact:** Gained visibility into system performance and early issue detection.
+🔹 **[EasyCRUD](https://github.com/Sanket006/EasyCRUD)**  
+Base CRUD application demonstrating full-stack functionality.  
+🛠 Tools: AWS(EC2, RDS), JavaScript/Node  
+📌 **Impact:** Shows backend understanding and provides a base for DevOps workflows.
 
 ---
 
