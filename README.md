@@ -24,26 +24,15 @@ I am actively seeking **entry-level / junior DevOps roles** where I can work **w
 
 ## 🛠️ Tech Stack
 
-**Cloud Platforms**
-AWS (EC2, S3, IAM, VPC, CloudWatch)
-
-**CI/CD & Automation**
-Jenkins | GitHub Actions | Shell Scripting
-
-**Containers & Orchestration**
-Docker | Kubernetes
-
-**Infrastructure as Code**
-Terraform
-
-**Operating Systems**
-Linux (Ubuntu, Amazon Linux)
-
-**Version Control**
-Git | GitHub
-
-**Monitoring Tools**
-CloudWatch | Datadog | Prometheus | Grafana
+| Category                       | Technologies                             |
+| ------------------------------ | ---------------------------------------- |
+| **Cloud Platforms**            | AWS (EC2, S3, IAM, VPC, CloudWatch)      |
+| **CI/CD & Automation**         | Jenkins, GitHub Actions, Shell Scripting |
+| **Containers & Orchestration** | Docker, Kubernetes                       |
+| **Infrastructure as Code**     | Terraform                                |
+| **Operating Systems**          | Linux (Ubuntu, Amazon Linux)             |
+| **Version Control**            | Git, GitHub                              |
+| **Monitoring Tools**           | CloudWatch, Datadog, Prometheus, Grafana |
 
 ---
 
@@ -116,3 +105,4 @@ Explored monitoring concepts using AWS CloudWatch and introductory exposure to P
 ---
 
 ⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me.*
+
