@@ -42,6 +42,9 @@ Linux (Ubuntu, Amazon Linux)
 **Version Control**
 Git | GitHub
 
+**Monitoring Tools**
+CloudWatch | Datadog | Prometheus | Grafana
+
 ---
 
 ## 📂 Key Projects (Hands-on Experience)
