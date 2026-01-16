@@ -60,7 +60,7 @@ Built and managed containerized multi-tier applications using Docker.
 🛠 Tools: Docker, Docker Compose  
 📌 **Impact:** Achieved environment consistency and simplified local/test deployments across services.
 
-🔹 **[EASY_CRUD](https://github.com/Sanket006/EASY_CRUD)**  
+🔹 **[Three-Tier-Using-JenkinsFile](https://github.com/Sanket006/Three-Tier-Using-JenkinsFile)**  
 Forked and enhanced a CRUD project with a working Jenkins CI pipeline.  
 🛠 Tools: Jenkins, GitHub, JavaScript/Node  
 📌 **Impact:** Integrated automated build/test into an existing app, improving reliability of commits.
