@@ -26,10 +26,10 @@ I am actively seeking **entry-level / junior DevOps roles** where I can work **w
 
 | Category                       | Technologies                             |
 | ------------------------------ | ---------------------------------------- |
-| **Cloud Platforms**            | AWS (EC2, S3, IAM, VPC, CloudWatch)      |
-| **CI/CD & Automation**         | Jenkins, GitHub Actions, Shell Scripting |
+| **Cloud Platforms**            | AWS, Azure, GCP                          |
+| **CI/CD & Automation**         | Jenkins, GitHub Actions, Azure Devops, Shell Scripting |
 | **Containers & Orchestration** | Docker, Kubernetes                       |
-| **Infrastructure as Code**     | Terraform                                |
+| **Infrastructure as Code**     | Terraform, CloudFormation, Ansible       |
 | **Operating Systems**          | Linux (Ubuntu, Amazon Linux)             |
 | **Version Control**            | Git, GitHub                              |
 | **Monitoring Tools**           | CloudWatch, Datadog, Prometheus, Grafana |
