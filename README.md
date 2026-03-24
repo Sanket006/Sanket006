@@ -1,106 +1,124 @@
-<h1 align="center">Hi 👋, I'm Sanket Ajay Chopade</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation</h3>
-  
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanket+Chopade;DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Scalable+Infrastructure;Open+to+Opportunities+in+India+%26+Global+Remote" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketchopade07)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chopade.sanket@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket006)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanket006&color=2F81F7&style=flat-square&label=Profile+Views)
+
+</div>
+
 ---
 
 ## 🚀 About Me
 
-I am a **DevOps Engineer** with hands-on experience in **AWS cloud infrastructure, CI/CD pipelines, containerization, Infrastructure as Code, and Linux system administration**. I focus on building **reliable, scalable, and automated solutions** using industry-standard DevOps tools and best practices.
+I'm a **DevOps Engineer** (B.Tech Aeronautical Engineering) currently interning at **Hisan Labs Pvt. Ltd.**, building production-grade cloud infrastructure from the ground up.
 
-I am actively seeking **entry-level / junior DevOps roles** where I can work **within India (onsite or remote)** as well as with **international remote teams**, contributing from day one and growing into a high-impact DevOps/Cloud Engineer.
+I architect and automate — from **Terraform IaC** and **Kubernetes** deployments to **Jenkins CI/CD** pipelines and **AWS multi-env** setups. My capstone project, **ApnaKart**, is a full production-grade cloud-native e-commerce platform built with 10 microservices, EKS, and Datadog monitoring.
 
----
-
-## 🧑‍💻 Professional Summary & Responsibilities
-
-* Designing, building, and maintaining **CI/CD pipelines** for automated build, test, and deployment workflows
-* Managing **AWS cloud infrastructure** with security and cost awareness
-* Containerizing applications using **Docker** and deploying on **Kubernetes**
-* Writing **Infrastructure as Code (Terraform)** for repeatable environments
-* Linux system administration, monitoring, and troubleshooting
-* Version control and collaboration using **Git & GitHub**
+> 🌍 Open to **Junior DevOps / Cloud Engineer** roles — India (onsite/remote) & International Remote
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                       | Technologies                             |
-| ------------------------------ | ---------------------------------------- |
-| **Cloud Platforms**            | AWS, Azure, GCP                          |
-| **CI/CD & Automation**         | Jenkins, GitHub Actions, Azure Devops, Shell Scripting |
-| **Containers & Orchestration** | Docker, Kubernetes                       |
-| **Infrastructure as Code**     | Terraform, CloudFormation, Ansible       |
-| **Operating Systems**          | Linux (Ubuntu, Amazon Linux)             |
-| **Version Control**            | Git, GitHub                              |
-| **Monitoring Tools**           | CloudWatch, Datadog, Prometheus, Grafana |
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**CI/CD & Automation**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Monitoring & Observability**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**OS & Version Control**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📂 Key Projects (Hands-on Experience)
+## 📂 Featured Projects
 
-### 🔧 DevOps & Cloud Projects (DevOps Journey)
+### ⭐ [ApnaKart — Production-Grade Cloud-Native E-Commerce Platform](https://github.com/Sanket006/ApnaKart)
 
-🔹 **[Jenkins](https://github.com/Sanket006/Jenkins)**  
-Configured Jenkins pipelines for automated build and delivery workflows using Jenkinsfile, integrated with GitHub.  
-🛠 Tools: Jenkins, GitHub, Shell scripting  
-📌 **Impact:** Reduced manual deployment steps and standardized build processes for multiple apps.
+> My capstone project — a fully production-ready microservices platform built with enterprise DevOps practices.
 
-🔹 **[Terraform](https://github.com/Sanket006/Terraform)**  
-Created reusable Terraform IaC modules for provisioning AWS infrastructure components like VPC, EC2, IAM roles, and S3.  
-🛠 Tools: Terraform, AWS (EC2, VPC, IAM, S3)  
-📌 **Impact:** Enabled consistent, version-controlled cloud provisioning, eliminating manual infra setup errors.
+- **10 Spring Boot microservices** (User, Product, Order, Inventory, Payment, Notification, API Gateway, etc.)
+- **React 18 frontend** with modern UI
+- **Terraform IaC** — VPC, EKS, RDS (Multi-AZ), Route53, S3, CloudFront
+- **Jenkins CI/CD** — branch-to-environment strategy (dev → test → UAT → prod)
+- **Dual registry** — DockerHub (dev/test) + AWS ECR (UAT/prod)
+- **Kubernetes** manifests with Kustomize overlays per environment
+- **Datadog** monitoring with custom dashboards and alerts
+- **JWT auth, Redis caching, Flyway DB migrations** in microservices
 
-🔹 **[Three-Tier-using-K8s](https://github.com/Sanket006/Three-Tier-using-K8s)**  
-Deployed a three-tier application architecture in Kubernetes clusters (Pods, Services, Deployments).  
-🛠 Tools: Kubernetes, Docker, kubectl  
-📌 **Impact:** Demonstrated scalable deployment of microservices with orchestration and service discovery.
-
-🔹 **[Three-Tier-using-Docker](https://github.com/Sanket006/Three-Tier-using-Docker)**  
-Built and managed containerized multi-tier applications using Docker.  
-🛠 Tools: Docker, Docker Compose  
-📌 **Impact:** Achieved environment consistency and simplified local/test deployments across services.
-
-🔹 **[Three-Tier-Using-JenkinsFile](https://github.com/Sanket006/Three-Tier-Using-JenkinsFile)**  
-Forked and enhanced a CRUD project with a working Jenkins CI pipeline.  
-🛠 Tools: Jenkins, GitHub, JavaScript/Node  
-📌 **Impact:** Integrated automated build/test into an existing app, improving reliability of commits.
-
-🔹 **[EasyCRUD](https://github.com/Sanket006/EasyCRUD)**  
-Base CRUD application demonstrating full-stack functionality.  
-🛠 Tools: AWS(EC2, RDS), JavaScript/Node  
-📌 **Impact:** Shows backend understanding and provides a base for DevOps workflows.
+🛠 `Java` `Spring Boot` `React` `Terraform` `Kubernetes` `Jenkins` `Docker` `AWS EKS` `Datadog`
 
 ---
 
-📌 *This GitHub profile highlights only my **DevOps and Cloud Engineering projects**, which reflect my current career focus and job-ready skill set.*
+### 🔧 Other DevOps Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Jenkins**](https://github.com/Sanket006/Jenkins) | Automated build & delivery pipelines via Jenkinsfile | Jenkins, GitHub, Shell |
+| [**Terraform**](https://github.com/Sanket006/Terraform) | Reusable IaC modules for AWS (VPC, EC2, IAM, S3) | Terraform, AWS |
+| [**Three-Tier-K8s**](https://github.com/Sanket006/Three-Tier-using-K8s) | Three-tier app deployed on Kubernetes | Kubernetes, Docker |
+| [**Three-Tier-Docker**](https://github.com/Sanket006/Three-Tier-using-Docker) | Multi-tier containerized app with Docker Compose | Docker, Docker Compose |
+| [**Three-Tier-Jenkins**](https://github.com/Sanket006/Three-Tier-Using-JenkinsFile) | CRUD app with Jenkins CI pipeline integrated | Jenkins, Node.js |
+| [**EasyCRUD**](https://github.com/Sanket006/EasyCRUD) | Full-stack CRUD app on AWS (EC2 + RDS) | Node.js, AWS |
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub Stats
 
-* Junior DevOps Engineer / DevOps Engineer roles (India-based or International Remote)
-* Cloud & Infrastructure Automation
-* International remote-first or global product-based companies
-* Long-term goal: **DevOps Lead / Cloud Engineer**
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanket006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-## 🌱 Currently Improving
+<br/>
 
-* Advanced Kubernetes (scaling, networking, security)
-* CI/CD best practices for production environments
-* Cloud monitoring, logging, and cost optimization
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanket006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Contact & Professional Availability
+## 🌱 Currently Learning
 
-* 💼 **LinkedIn:** *(www.linkedin.com/in/sanketchopade07)*
-* 📧 **Email:** *(chopade.sanket@outlook.com)*
-* 🌍 **Availability:** Open to **India-based roles** as well as **International Remote opportunities**
-* ⏰ **Timezone:** IST (UTC+5:30) | Flexible overlap with global teams
+- Advanced Kubernetes (HPA, network policies, RBAC, service mesh)
+- GitOps with ArgoCD
+- Cloud cost optimization strategies
+- AWS Solutions Architect concepts
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me.*
+<div align="center">
 
+⭐ *If any of my projects helped you, consider giving them a star!*  
+*Always open to collaboration, feedback, or just a good DevOps conversation.*
+
+</div>
