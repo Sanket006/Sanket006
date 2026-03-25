@@ -83,12 +83,12 @@ I architect and automate — from **Terraform IaC** and **Kubernetes** deploymen
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Jenkins**](https://github.com/Sanket006/Jenkins) | Automated build & delivery pipelines via Jenkinsfile | Jenkins, GitHub, Shell |
-| [**Terraform**](https://github.com/Sanket006/Terraform) | Reusable IaC modules for AWS (VPC, EC2, IAM, S3) | Terraform, AWS |
-| [**Three-Tier-K8s**](https://github.com/Sanket006/Three-Tier-using-K8s) | Three-tier app deployed on Kubernetes | Kubernetes, Docker |
-| [**Three-Tier-Docker**](https://github.com/Sanket006/Three-Tier-using-Docker) | Multi-tier containerized app with Docker Compose | Docker, Docker Compose |
-| [**Three-Tier-Jenkins**](https://github.com/Sanket006/Three-Tier-Using-JenkinsFile) | CRUD app with Jenkins CI pipeline integrated | Jenkins, Node.js |
-| [**EasyCRUD**](https://github.com/Sanket006/EasyCRUD) | Full-stack CRUD app on AWS (EC2 + RDS) | Node.js, AWS |
+| [**jenkins-cicd-pipelines**](https://github.com/Sanket006/jenkins-cicd-pipelines) | Automated build & delivery pipelines via Jenkinsfile | Jenkins, GitHub, Shell |
+| [**terraform-aws-iac**](https://github.com/Sanket006/terraform-aws-iac) | Reusable IaC modules for AWS (VPC, EC2, IAM, S3) | Terraform, AWS |
+| [**student-app-kubernetes**](https://github.com/Sanket006/student-app-kubernetes) | Three-tier app deployed on Kubernetes | Kubernetes, Docker |
+| [**student-app-docker-compose**](https://github.com/Sanket006/student-app-docker-compose) | Multi-tier containerized app with Docker Compose | Docker, Docker Compose |
+| [**nodejs-app-jenkins-pipeline**](https://github.com/Sanket006/nodejs-app-jenkins-pipeline) | CRUD app with Jenkins CI pipeline integrated | Jenkins, Node.js |
+| [**crud-app-aws-ec2-rds**](https://github.com/Sanket006/crud-app-aws-ec2-rds) | Full-stack CRUD app on AWS (EC2 + RDS) | Node.js, AWS |
 
 ---
 
