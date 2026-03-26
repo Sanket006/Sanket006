@@ -60,22 +60,19 @@ I architect and automate — from **Terraform IaC** and **Kubernetes** deploymen
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-### ⭐ [ApnaKart — Production-Grade Cloud-Native E-Commerce Platform](https://github.com/Sanket006/ApnaKart)
+### ✈️ [Flight Reservation — Cloud-Native Microservices Application](https://github.com/Sanket006/Flight-Reservation-App)
 
-> My capstone project — a fully production-ready microservices platform built with enterprise DevOps practices.
+> Scalable flight booking system demonstrating production-grade container orchestration and deployment strategies.
 
-- **10 Spring Boot microservices** (User, Product, Order, Inventory, Payment, Notification, API Gateway, etc.)
-- **React 18 frontend** with modern UI
-- **Terraform IaC** — VPC, EKS, RDS (Multi-AZ), Route53, S3, CloudFront
-- **Jenkins CI/CD** — branch-to-environment strategy (dev → test → UAT → prod)
-- **Dual registry** — DockerHub (dev/test) + AWS ECR (UAT/prod)
-- **Kubernetes** manifests with Kustomize overlays per environment
-- **Datadog** monitoring with custom dashboards and alerts
-- **JWT auth, Redis caching, Flyway DB migrations** in microservices
+- Containerized microservices using **Docker multi-stage builds** (reduced image size by 60%)  
+- Deployed on **Kubernetes** with high availability architecture  
+- Implemented **zero-downtime rolling updates**  
+- Configured **Horizontal Pod Autoscaler (HPA)** for traffic-based scaling  
+- Designed for resilience, scalability, and real-world DevOps workflows  
 
-🛠 `Java` `Spring Boot` `React` `Terraform` `Kubernetes` `Jenkins` `Docker` `AWS EKS` `Datadog`
+🛠 `Docker` `Kubernetes` `AWS` `Terraform`
 
 ---
 
