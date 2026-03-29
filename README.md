@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanket+Chopade;DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Scalable+Infrastructure;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS;99.5%25+Uptime+%7C+60%25+Faster+Deployments;Automating+Everything+That+Can+Be+Automated" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanket+Chopade;DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Scalable+Infrastructure;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS;" alt="Typing SVG" />
 
 <br/>
 
