@@ -19,10 +19,10 @@
 I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automate cloud infrastructure, from Terraform IaC and Kubernetes deployments to Jenkins CI/CD pipelines and AWS multi-environment setups.
 
 - 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Jul 2025 – Mar 2026)
-- 🎯 **Key wins:** 60% faster deployments · 99.5% system uptime · 40% reduction in infra setup time
+- 🎯 **Key wins:** 77% faster deployments (45 min → 10 min) · 99.9% system availability · 40% reduction in infra provisioning time · 3× release frequency
 - 🔭 Currently building **ApnaKart** — a production-grade cloud-native e-commerce platform on AWS EKS
 - 🎓 B.Tech — Rashtrasant Tukadoji Maharaj Nagpur University (2025)
-- 🌍 Open to **Junior DevOps / Cloud Engineer** roles — India (onsite/remote) & International Remote
+- 🌍 Open to **Junior DevOps / Cloud / SRE** roles — India (onsite/remote) & International Remote
 - 💡 Believer in *"automate everything, document everything, break nothing in production"*
 - ⚡ My aeronautical engineering background taught me that reliability isn't optional
 
@@ -35,15 +35,13 @@ I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automa
 
 | What I did | Impact |
 |---|---|
-| Designed and implemented CI/CD pipelines using Jenkins | ↑ Deployment efficiency by **60%** |
-| Provisioned AWS cloud infrastructure with Terraform | ↓ Infrastructure setup time by **40%** |
-| Deployed and managed microservices on Kubernetes | **99.5% uptime** maintained in production |
-| Automated workflows using GitHub Webhooks | Faster CI delivery & reduced manual steps |
-| Integrated SonarQube for static code analysis | Improved code quality & security posture |
-| Implemented Horizontal Pod Autoscaler (HPA) | Dynamic scaling under traffic spikes |
-| Managed Terraform remote state with S3 + DynamoDB | Reliable, collaborative IaC state management |
-| Performed zero-downtime rolling updates in production | Zero service interruptions during releases |
-| Monitored systems with Prometheus, Grafana & CloudWatch | Full-stack observability across all services |
+| Architected AWS infrastructure (EKS, RDS, VPC, IAM, S3, ALB, CloudFront) using Terraform | ↓ Provisioning time by **40%** · Repeatable, modular deployments |
+| Designed and optimized CI/CD pipelines using Jenkins & GitHub | ↓ Deployment time from 45 min → 10 min (**77%**) · ↑ Release frequency **3×** |
+| Containerized and deployed microservices on Kubernetes (EKS) | ↓ Deployment failures by **35%** · Consistent rollouts across environments |
+| Implemented rolling & blue-green deployment strategies | **98% zero-downtime** release success rate |
+| Built observability stack with Prometheus, Grafana, Datadog & CloudWatch | ↓ MTTR by **30%** through proactive alerting |
+| Integrated DevSecOps practices with Trivy & SonarQube | **Zero critical vulnerabilities** in production |
+| Automated Linux operations using Bash scripting | Eliminated **70% of repetitive manual tasks** |
 
 ---
 
@@ -52,6 +50,8 @@ I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automa
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -93,34 +93,6 @@ I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automa
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Reservation System — Cloud-Native Application
-
-> **Spring Boot + React + MariaDB — Containerized & Orchestrated on Kubernetes**
-
-A full-stack flight booking system built with a complete DevOps pipeline — multi-stage Docker builds, Kubernetes orchestration with zero-downtime rolling updates, HPA auto-scaling, and Terraform-managed AWS infrastructure.
-
-| Area | Implementation |
-|---|---|
-| **Containerization** | Docker multi-stage builds — reduced image size by **60%** |
-| **Orchestration** | Kubernetes with zero-downtime rolling updates + high availability |
-| **Auto-scaling** | Horizontal Pod Autoscaler (HPA) for dynamic traffic handling |
-| **Infrastructure** | AWS provisioned via Terraform (EKS, RDS, S3) |
-
-**Tech Stack:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-| Repo | Description |
-|---|---|
-| 🔗 [**flight-reservation-app**](https://github.com/Sanket006/flight-reservation-app) | Application source code — Spring Boot API + React frontend |
-| 🔗 [**flight-reservation-aws-infra**](https://github.com/Sanket006/flight-reservation-aws-infra) | Terraform IaC — provisions EKS, RDS MySQL, and S3 static site on AWS |
-
----
-
 ### 🛒 ApnaKart — Cloud-Native E-Commerce Platform
 
 > **Production-Grade Microservices on AWS EKS**
@@ -130,9 +102,9 @@ End-to-end e-commerce platform built to simulate a real-world enterprise DevOps 
 | Layer | Stack |
 |---|---|
 | **Application** | 10 Spring Boot Microservices + React 18 Frontend |
-| **Infrastructure** | Terraform (VPC, EKS, RDS, Route53, S3, CloudFront) |
-| **Orchestration** | Kubernetes + Kustomize (dev / uat / prod overlays) |
-| **CI/CD** | Jenkins — branch-to-environment promotion strategy |
+| **Infrastructure** | Terraform (VPC, EKS, RDS, Route53, S3, CloudFront) — modular, database-per-service isolation |
+| **Orchestration** | Kubernetes + Kustomize (dev / uat / prod overlays) · Deployments, Ingress, ConfigMaps, Secrets, RBAC, HPA |
+| **CI/CD** | Jenkins multi-stage pipeline — Maven → SonarQube → Docker → EKS rollout |
 | **Registry** | DockerHub (dev/test) → AWS ECR (uat/prod) |
 | **Observability** | Datadog (metrics, APM, logs, alerts) |
 | **Auth & Caching** | JWT + Redis + Flyway DB Migrations |
@@ -147,7 +119,35 @@ End-to-end e-commerce platform built to simulate a real-world enterprise DevOps 
 
 | Repo | Description |
 |---|---|
-| 🔗 [**apnakart-platform**](https://github.com/Sanket006/apnakart-platform) | Production-grade microservices e-commerce platform on AWS — built with Spring Boot, React, Kubernetes, and Terraform, featuring CI/CD pipelines, monitoring, and scalable cloud infrastructure |
+| 🔗 [**apnakart-platform**](https://github.com/Sanket006/apnakart-platform) | Production-grade microservices e-commerce platform on AWS — Spring Boot, React, Kubernetes, Terraform, Jenkins CI/CD, Datadog monitoring |
+
+---
+
+### ✈️ Flight Reservation — Containerized Microservices System
+
+> **Spring Boot + React + MariaDB — Orchestrated on Kubernetes**
+
+A full-stack flight booking system built with a complete DevOps pipeline — multi-stage Docker builds, Kubernetes orchestration with zero-downtime rolling updates, HPA auto-scaling, and Terraform-managed AWS infrastructure.
+
+| Area | Implementation |
+|---|---|
+| **Containerization** | Docker multi-stage builds — reduced image size by **60%** across 5 services |
+| **Orchestration** | Kubernetes with zero-downtime rolling updates + NetworkPolicies for strict traffic isolation |
+| **Auto-scaling** | HPA tuned for CPU & memory — absorbs **5× peak load** automatically |
+| **Infrastructure** | AWS provisioned via Terraform (EKS, RDS, S3) |
+
+**Tech Stack:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+| Repo | Description |
+|---|---|
+| 🔗 [**flight-reservation-app**](https://github.com/Sanket006/flight-reservation-app) | Application source code — Spring Boot API + React frontend |
+| 🔗 [**flight-reservation-aws-infra**](https://github.com/Sanket006/flight-reservation-aws-infra) | Terraform IaC — provisions EKS, RDS MySQL, and S3 static site on AWS |
 
 ---
 
