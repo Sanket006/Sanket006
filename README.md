@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanket+Chopade;DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Scalable+Infrastructure;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Sanket+Chopade;DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability+%7C+IaC;Building+Reliable+Cloud-Native+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chopade.sanket@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket006)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sanket006&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Sanket006)
+[![Profile Views](https://komarun.ghpvc/?username=Sanket006&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Sanket006)
 
 </div>
 
@@ -16,32 +16,34 @@
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automate cloud infrastructure, from Terraform IaC and Kubernetes deployments to Jenkins CI/CD pipelines and AWS multi-environment setups.
+I'm a **DevOps Engineer** based in Pune, India 🇮🇳, focused on building and automating reliable cloud infrastructure — from Terraform IaC and Kubernetes orchestration to Jenkins CI/CD pipelines and AWS multi-environment deployments.
 
-- 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Jul 2025 – Mar 2026)
-- 🎯 **Key wins:** 77% faster deployments (45 min → 10 min) · 99.9% system availability · 40% reduction in infra provisioning time · 3× release frequency
-- 🔭 Currently building **ApnaKart** — a production-grade cloud-native e-commerce platform on AWS EKS
+My background in Aeronautical Engineering gave me a systems-first mindset: reliability, fault tolerance, and precision aren't optional — they're the foundation of everything I build.
+
+- 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Sep 2025 – May 2026)
+- 🛒 Currently building **ApnaKart** — a production-grade cloud-native e-commerce platform on AWS EKS
 - 🎓 B.Tech — Rashtrasant Tukadoji Maharaj Nagpur University (2025)
-- 🌍 Open to **Junior DevOps / Cloud / SRE** roles — India (onsite/remote) & International Remote
-- 💡 Believer in *"automate everything, document everything, break nothing in production"*
-- ⚡ My aeronautical engineering background taught me that reliability isn't optional
+- 🎯 Targeting **Junior DevOps / Cloud / SRE / Platform Engineer** roles — India & Remote
+- 📍 Based in **Pune, India** · Open to Pune, Bengaluru, Nagpur & Remote
+- ⚡ *"Automate everything. Document everything. Break nothing in production."*
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
 ### DevOps Engineer Intern — Hisan Labs Private Limited
-**Pune, India | Jul 2025 – Mar 2026**
+**Pune, India | Sep 2025 – May 2026**
 
-| What I did | Impact |
+| Responsibility | Impact |
 |---|---|
-| Architected AWS infrastructure (EKS, RDS, VPC, IAM, S3, ALB, CloudFront) using Terraform | ↓ Provisioning time by **40%** · Repeatable, modular deployments |
-| Designed and optimized CI/CD pipelines using Jenkins & GitHub | ↓ Deployment time from 45 min → 10 min (**77%**) · ↑ Release frequency **3×** |
-| Containerized and deployed microservices on Kubernetes (EKS) | ↓ Deployment failures by **35%** · Consistent rollouts across environments |
-| Implemented rolling & blue-green deployment strategies | **98% zero-downtime** release success rate |
-| Built observability stack with Prometheus, Grafana, Datadog & CloudWatch | ↓ MTTR by **30%** through proactive alerting |
-| Integrated DevSecOps practices with Trivy & SonarQube | **Zero critical vulnerabilities** in production |
-| Automated Linux operations using Bash scripting | Eliminated **70% of repetitive manual tasks** |
+| Provisioned AWS infrastructure (EKS, VPC, IAM, S3, ALB, RDS) via Terraform | Consistent, repeatable deployments — reduced manual provisioning effort |
+| Built and optimized Jenkins CI/CD pipelines integrated with GitHub | ↓ Deployment time **45 min → 10 min (77% faster)** |
+| Implemented GitOps workflows using ArgoCD — Git as single source of truth for Kubernetes deployments | Automated app delivery and maintained environment consistency across clusters |
+| Configured K8s Deployments, Ingress, RBAC, ConfigMaps, Secrets, HPA | Scalable, secure microservices delivery on Amazon EKS |
+| Containerized microservices with rolling & blue-green deployment strategies | Reliable, zero-downtime releases across environments |
+| Built observability stack with Prometheus, Grafana, Datadog, CloudWatch | Improved observability and troubleshooting through proactive alerting and dashboards |
+| Integrated DevSecOps with Trivy image scanning & SonarQube | Zero critical CVEs in production; code quality gate enforcement |
+| Automated Linux ops with Bash scripting | Eliminated repetitive manual tasks across the infrastructure lifecycle |
 
 ---
 
@@ -50,8 +52,6 @@ I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automa
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -62,92 +62,66 @@ I'm a **DevOps Engineer** from Nagpur, India 🇮🇳 — I architect and automa
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-**CI/CD & Automation**
+**CI/CD & GitOps**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-**Monitoring & Observability**
+**Monitoring & DevSecOps**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Security & Code Quality**
-
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
 
 **Languages & OS**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 ApnaKart — Cloud-Native E-Commerce Platform
+### 🛒 ApnaKart — Cloud-Native E-Commerce Platform on AWS EKS
 
-> **Production-Grade Microservices on AWS EKS**
-
-End-to-end e-commerce platform built to simulate a real-world enterprise DevOps environment — from application code to cloud infrastructure, CI/CD, and observability.
+> Production-grade microservices platform simulating a real enterprise DevOps environment — end-to-end from application code to cloud infrastructure, CI/CD, and observability.
 
 | Layer | Stack |
 |---|---|
-| **Application** | 10 Spring Boot Microservices + React 18 Frontend |
-| **Infrastructure** | Terraform (VPC, EKS, RDS, Route53, S3, CloudFront) — modular, database-per-service isolation |
-| **Orchestration** | Kubernetes + Kustomize (dev / uat / prod overlays) · Deployments, Ingress, ConfigMaps, Secrets, RBAC, HPA |
-| **CI/CD** | Jenkins multi-stage pipeline — Maven → SonarQube → Docker → EKS rollout |
-| **Registry** | DockerHub (dev/test) → AWS ECR (uat/prod) |
-| **Observability** | Datadog (metrics, APM, logs, alerts) |
-| **Auth & Caching** | JWT + Redis + Flyway DB Migrations |
+| **Application** | Spring Boot Microservices + React Frontend |
+| **Infrastructure** | Terraform (VPC, EKS, RDS, S3, Security Groups) — modular configurations |
+| **Orchestration** | Kubernetes on Amazon EKS · Deployments, Services, Ingress, RBAC, ConfigMaps, Secrets, HPA |
+| **CI/CD** | Jenkins multi-stage pipeline — Maven builds → SonarQube → Docker → Kubernetes |
+| **Observability** | Prometheus + Grafana monitoring |
+| **Security** | Trivy image scanning · SonarQube code quality gates |
 
-**Tech Stack:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+**Key outcomes:** 77% deployment time reduction (45 min → 10 min) · Zero critical CVEs in production
 
-| Repo | Description |
-|---|---|
-| 🔗 [**apnakart-platform**](https://github.com/Sanket006/apnakart-platform) | Production-grade microservices e-commerce platform on AWS — Spring Boot, React, Kubernetes, Terraform, Jenkins CI/CD, Datadog monitoring |
+[![Repo](https://img.shields.io/badge/Repo-apnakart--platform-181717?style=flat-square&logo=github)](https://github.com/Sanket006/apnakart-platform)
 
 ---
 
 ### ✈️ Flight Reservation — Containerized Microservices System
 
-> **Spring Boot + React + MariaDB — Orchestrated on Kubernetes**
-
-A full-stack flight booking system built with a complete DevOps pipeline — multi-stage Docker builds, Kubernetes orchestration with zero-downtime rolling updates, HPA auto-scaling, and Terraform-managed AWS infrastructure.
+> Full-stack flight booking system with a complete DevOps pipeline — multi-stage Docker builds, Kubernetes orchestration, HPA auto-scaling, and Terraform-provisioned AWS infrastructure.
 
 | Area | Implementation |
 |---|---|
-| **Containerization** | Docker multi-stage builds — reduced image size by **60%** across 5 services |
-| **Orchestration** | Kubernetes with zero-downtime rolling updates + NetworkPolicies for strict traffic isolation |
-| **Auto-scaling** | HPA tuned for CPU & memory — absorbs **5× peak load** automatically |
-| **Infrastructure** | AWS provisioned via Terraform (EKS, RDS, S3) |
+| **Containerization** | Docker multi-stage builds across multiple services |
+| **Orchestration** | Kubernetes with zero-downtime rolling updates + NetworkPolicies for traffic isolation |
+| **Auto-scaling** | HPA configured for CPU & memory-based scaling |
+| **Infrastructure** | Terraform-provisioned EKS, RDS, and S3 on AWS |
 
-**Tech Stack:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-| Repo | Description |
-|---|---|
-| 🔗 [**flight-reservation-app**](https://github.com/Sanket006/flight-reservation-app) | Application source code — Spring Boot API + React frontend |
-| 🔗 [**flight-reservation-aws-infra**](https://github.com/Sanket006/flight-reservation-aws-infra) | Terraform IaC — provisions EKS, RDS MySQL, and S3 static site on AWS |
+[![App Repo](https://img.shields.io/badge/Repo-flight--reservation--app-181717?style=flat-square&logo=github)](https://github.com/Sanket006/flight-reservation-app)
+[![Infra Repo](https://img.shields.io/badge/Repo-flight--reservation--aws--infra-181717?style=flat-square&logo=github)](https://github.com/Sanket006/flight-reservation-aws-infra)
 
 ---
 
@@ -155,12 +129,11 @@ A full-stack flight booking system built with a complete DevOps pipeline — mul
 
 | Project | Description | Stack |
 |---|---|---|
-| [**jenkins-cicd-pipelines**](https://github.com/Sanket006/jenkins-cicd-pipelines) | 9 Jenkinsfile pipelines: build, deploy, SSH agent, S3 artifacts, Terraform EKS provisioning | Jenkins · Groovy · AWS |
-| [**terraform-aws-iac**](https://github.com/Sanket006/terraform-aws-iac) | IaC modules — VPC, EC2, IAM, S3, remote state, loops, multi-environment | Terraform · AWS |
-| [**student-app-kubernetes**](https://github.com/Sanket006/student-app-kubernetes) | Three-tier app on K8s — StatefulSet, HPA, Secrets, PVC, Ingress | K8s · Spring Boot · MariaDB |
-| [**nodejs-app-jenkins-pipeline**](https://github.com/Sanket006/nodejs-app-jenkins-pipeline) | Jenkins pipeline that builds Docker images and deploys to AWS EKS | Jenkins · Docker · EKS |
-| [**student-app-docker-compose**](https://github.com/Sanket006/student-app-docker-compose) | Three-tier app containerized with Docker Compose — Apache-Tomcat + MariaDB | Docker · Java · MariaDB |
-| [**crud-app-aws-ec2-rds**](https://github.com/Sanket006/crud-app-aws-ec2-rds) | Spring Boot + React CRUD app hosted on AWS EC2 with managed RDS | AWS · Spring Boot · React |
+| [jenkins-cicd-pipelines](https://github.com/Sanket006/jenkins-cicd-pipelines) | 9 Jenkinsfile pipelines — build, deploy, SSH agent, S3 artifacts, Terraform EKS provisioning | Jenkins · Groovy · AWS |
+| [terraform-aws-iac](https://github.com/Sanket006/terraform-aws-iac) | IaC modules — VPC, EC2, IAM, S3, remote state, multi-environment | Terraform · AWS |
+| [student-app-kubernetes](https://github.com/Sanket006/student-app-kubernetes) | Three-tier app — StatefulSet, HPA, Secrets, PVC, Ingress | K8s · Spring Boot · MariaDB |
+| [nodejs-app-jenkins-pipeline](https://github.com/Sanket006/nodejs-app-jenkins-pipeline) | Jenkins pipeline: Docker build → AWS EKS deploy | Jenkins · Docker · EKS |
+| [crud-app-aws-ec2-rds](https://github.com/Sanket006/crud-app-aws-ec2-rds) | Spring Boot + React CRUD app on EC2 with managed RDS | AWS · Spring Boot · React |
 
 ---
 
@@ -179,13 +152,15 @@ A full-stack flight booking system built with a complete DevOps pipeline — mul
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Deepening
 
-- Advanced Kubernetes — network policies, RBAC, service mesh (Istio)
-- GitOps with **ArgoCD**
-- Production CI/CD — blue/green & canary deployment strategies
-- Cloud cost optimization — rightsizing, reserved instances, spot fleets
-- Security hardening — Trivy image scanning, OPA Gatekeeper policies
+Practical next steps from my current foundation — focused, achievable, and directly applicable to junior DevOps work:
+
+- **Kubernetes network policies** — controlling pod-to-pod traffic and namespace isolation
+- **AWS Secrets Manager** — centralized secrets storage and rotation integrated with EKS workloads
+- **Helm chart authoring** — writing and packaging custom Helm charts, beyond using pre-built ones
+- **Cloud cost basics** — instance rightsizing, reserved vs on-demand tradeoffs, identifying cost anomalies
+- **Prometheus alerting rules** — writing custom alert rules and routing notifications through Alertmanager
 
 ---
 
@@ -197,9 +172,9 @@ A full-stack flight booking system built with a complete DevOps pipeline — mul
 |---|---|
 | 💼 **LinkedIn** | [linkedin.com/in/sanketchopade07](https://www.linkedin.com/in/sanketchopade07) |
 | 📧 **Email** | chopade.sanket@outlook.com |
-| 📍 **Location** | Nagpur, India |
-| 🌍 **Availability** | Open to India-based & International Remote roles |
-| ⏰ **Timezone** | IST (UTC+5:30) — Flexible overlap with global teams |
+| 📍 **Location** | Pune, India |
+| 🌍 **Open to** | Pune · Bengaluru · Nagpur · Remote (India & International) |
+| ⏰ **Timezone** | IST (UTC+5:30) — flexible overlap with global teams |
 
 </div>
 
