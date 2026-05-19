@@ -24,7 +24,7 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 - 🛒 Currently building **ApnaKart** — a production-grade cloud-native e-commerce platform on AWS EKS
 - 🎓 B.Tech — Rashtrasant Tukadoji Maharaj Nagpur University (2025)
 - 🎯 Targeting **Junior DevOps / Cloud / SRE / Platform Engineer** roles — India & Remote
-- 📍 Based in **Pune, India** · Open to Pune, Bengaluru, Nagpur & Remote
+- 📍 Based in **Pune, India** · Open to Pune, Bengaluru, Hyderabad, Nagpur & Remote
 - ⚡ *"Automate everything. Document everything. Break nothing in production."*
 
 ---
@@ -173,7 +173,7 @@ Practical next steps from my current foundation — focused, achievable, and dir
 | 💼 **LinkedIn** | [linkedin.com/in/sanketchopade07](https://www.linkedin.com/in/sanketchopade07) |
 | 📧 **Email** | chopade.sanket@outlook.com |
 | 📍 **Location** | Pune, India |
-| 🌍 **Open to** | Pune · Bengaluru · Nagpur · Remote (India & International) |
+| 🌍 **Open to** | Pune · Bengaluru · Hyderabad · Nagpur · Remote (India & International) |
 | ⏰ **Timezone** | IST (UTC+5:30) — flexible overlap with global teams |
 
 </div>
