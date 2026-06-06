@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Sanket+Chopade;DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability+%7C+IaC;Building+Reliable+Cloud-Native+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Sanket+Chopade;DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+IaC+%7C+Observability;Building+Reliable+Cloud-Native+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chopade.sanket@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket006)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sanket006&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Sanket006)
+[![Profile Views](https://komarun.com/ghpvc/?username=Sanket006&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Sanket006)
 
 </div>
 
@@ -16,34 +16,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps Engineer** based in Pune, India 🇮🇳, focused on building and automating reliable cloud infrastructure — from Terraform IaC and Kubernetes orchestration to Jenkins CI/CD pipelines and AWS multi-environment deployments.
+I'm a **fresher DevOps Engineer** based in Pune, India 🇮🇳, with hands-on internship experience building and automating cloud infrastructure — from Terraform IaC and Kubernetes orchestration to Jenkins CI/CD pipelines and AWS deployments.
 
 My background in Aeronautical Engineering gave me a systems-first mindset: reliability, fault tolerance, and precision aren't optional — they're the foundation of everything I build.
 
 - 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Sep 2025 – May 2026)
-- 🛒 Currently building **ApnaKart** — a production-grade cloud-native e-commerce platform on AWS EKS
-- 🎓 B.Tech — Rashtrasant Tukadoji Maharaj Nagpur University (2025)
-- 🎯 Targeting **Junior DevOps / Cloud / SRE / Platform Engineer** roles — India & Remote
-- 📍 Based in **Pune, India** · Open to Pune, Bengaluru, Hyderabad, Nagpur & Remote
+- 🎓 B.Tech in Aeronautical Engineering — RTM Nagpur University (2025)
+- 🎯 Open to **Junior DevOps / Cloud / SRE / Platform Engineer** roles — Pune, Bengaluru, Hyderabad & Remote
 - ⚡ *"Automate everything. Document everything. Break nothing in production."*
-
----
-
-## 💼 Professional Experience
-
-### DevOps Engineer Intern — Hisan Labs Private Limited
-**Pune, India | Sep 2025 – May 2026**
-
-| Responsibility | Impact |
-|---|---|
-| Provisioned AWS infrastructure (EKS, VPC, IAM, S3, ALB, RDS) via Terraform | Consistent, repeatable deployments — reduced manual provisioning effort |
-| Built and optimized Jenkins CI/CD pipelines integrated with GitHub | ↓ Deployment time **45 min → 10 min (77% faster)** |
-| Implemented GitOps workflows using ArgoCD — Git as single source of truth for Kubernetes deployments | Automated app delivery and maintained environment consistency across clusters |
-| Configured K8s Deployments, Ingress, RBAC, ConfigMaps, Secrets, HPA | Scalable, secure microservices delivery on Amazon EKS |
-| Containerized microservices with rolling & blue-green deployment strategies | Reliable, zero-downtime releases across environments |
-| Built observability stack with Prometheus, Grafana, Datadog, CloudWatch | Improved observability and troubleshooting through proactive alerting and dashboards |
-| Integrated DevSecOps with Trivy image scanning & SonarQube | Zero critical CVEs in production; code quality gate enforcement |
-| Automated Linux ops with Bash scripting | Eliminated repetitive manual tasks across the infrastructure lifecycle |
 
 ---
 
@@ -53,7 +33,6 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **Containers & Orchestration**
@@ -61,21 +40,20 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **CI/CD & GitOps**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 **Monitoring & DevSecOps**
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
 
@@ -86,38 +64,62 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**AWS Services**
+
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 ApnaKart — Cloud-Native E-Commerce Platform on AWS EKS
+### ✈️ Go Cloud-Native GitOps Delivery Pipeline
+**GitHub Actions · Argo CD · Docker · Kubernetes · AWS EKS**
 
-> Production-grade microservices platform simulating a real enterprise DevOps environment — end-to-end from application code to cloud infrastructure, CI/CD, and observability.
+> GitOps-based CI/CD pipeline automating deployment of a Go web application on Amazon EKS.
 
-| Layer | Stack |
+| Layer | Implementation |
 |---|---|
-| **Application** | Spring Boot Microservices + React Frontend |
-| **Infrastructure** | Terraform (VPC, EKS, RDS, S3, Security Groups) — modular configurations |
-| **Orchestration** | Kubernetes on Amazon EKS · Deployments, Services, Ingress, RBAC, ConfigMaps, Secrets, HPA |
-| **CI/CD** | Jenkins multi-stage pipeline — Maven builds → SonarQube → Docker → Kubernetes |
-| **Observability** | Prometheus + Grafana monitoring |
-| **Security** | Trivy image scanning · SonarQube code quality gates |
+| **CI Pipeline** | GitHub Actions — build, test, lint, Docker image push (tagged with run ID) |
+| **Containerisation** | Multi-stage Dockerfiles with Distroless base images for minimal attack surface |
+| **GitOps CD** | Argo CD continuously syncs Kubernetes state from Git — single source of truth |
+| **Packaging** | Helm charts managing Deployments, Services, and Ingress configurations |
+| **Code Quality** | Automated unit testing and `golangci-lint` static analysis on every push |
 
-**Key outcomes:** 77% deployment time reduction (45 min → 10 min) · Zero critical CVEs in production
-
-[![Repo](https://img.shields.io/badge/Repo-apnakart--platform-181717?style=flat-square&logo=github)](https://github.com/Sanket006/apnakart-platform)
+[![Repo](https://img.shields.io/badge/Repo-golang--eks--gitops--pipeline-181717?style=flat-square&logo=github)](https://github.com/Sanket006/golang-eks-gitops-pipeline)
 
 ---
 
-### ✈️ Flight Reservation — Containerized Microservices System
+### 🎮 Serverless Game Hosting Platform
+**Amazon EKS · AWS Fargate · Kubernetes · IRSA**
+
+> Containerised 2048 game deployed on EKS using AWS Fargate for serverless compute — no EC2 nodes to manage.
+
+| Area | Implementation |
+|---|---|
+| **Compute** | AWS Fargate — serverless pod scheduling with Fargate profiles |
+| **Ingress** | AWS Load Balancer Controller installed via Helm; ALB auto-provisioned from Ingress resource |
+| **IAM Security** | OIDC integration + IAM Roles for Service Accounts (IRSA) for secure pod-to-AWS access |
+| **Cluster Ops** | Cluster administration using `kubectl` and `eksctl` |
+
+[![Repo](https://img.shields.io/badge/Repo-2048--eks--deployment-181717?style=flat-square&logo=github)](https://github.com/Sanket006/2048-eks-deployment)
+
+---
+
+### 🛫 Flight Reservation — Containerised Microservices System
+**Docker · Kubernetes · Terraform · AWS EKS**
 
 > Full-stack flight booking system with a complete DevOps pipeline — multi-stage Docker builds, Kubernetes orchestration, HPA auto-scaling, and Terraform-provisioned AWS infrastructure.
 
 | Area | Implementation |
 |---|---|
-| **Containerization** | Docker multi-stage builds across multiple services |
+| **Containerisation** | Docker multi-stage builds across multiple services for minimal image sizes |
 | **Orchestration** | Kubernetes with zero-downtime rolling updates + NetworkPolicies for traffic isolation |
-| **Auto-scaling** | HPA configured for CPU & memory-based scaling |
+| **Auto-scaling** | HPA configured for CPU and memory-based scaling |
 | **Infrastructure** | Terraform-provisioned EKS, RDS, and S3 on AWS |
 
 [![App Repo](https://img.shields.io/badge/Repo-flight--reservation--app-181717?style=flat-square&logo=github)](https://github.com/Sanket006/flight-reservation-app)
@@ -154,13 +156,13 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 
 ## 🌱 Currently Deepening
 
-Practical next steps from my current foundation — focused, achievable, and directly applicable to junior DevOps work:
+Focused next steps directly applicable to junior DevOps work:
 
-- **Kubernetes network policies** — controlling pod-to-pod traffic and namespace isolation
-- **AWS Secrets Manager** — centralized secrets storage and rotation integrated with EKS workloads
-- **Helm chart authoring** — writing and packaging custom Helm charts, beyond using pre-built ones
-- **Cloud cost basics** — instance rightsizing, reserved vs on-demand tradeoffs, identifying cost anomalies
+- **AWS Secrets Manager** — centralised secrets storage, rotation, and integration with EKS workloads via IAM and IRSA
+- **Helm chart authoring** — writing and packaging custom Helm charts from scratch, beyond using pre-built community charts
+- **Kubernetes network policies** — controlling pod-to-pod traffic and enforcing namespace isolation in multi-tier applications
 - **Prometheus alerting rules** — writing custom alert rules and routing notifications through Alertmanager
+- **Bash scripting for automation** — building reusable scripts for operational tasks like log rotation, health checks, and deployment helpers
 
 ---
 
@@ -173,7 +175,7 @@ Practical next steps from my current foundation — focused, achievable, and dir
 | 💼 **LinkedIn** | [linkedin.com/in/sanketchopade07](https://www.linkedin.com/in/sanketchopade07) |
 | 📧 **Email** | chopade.sanket@outlook.com |
 | 📍 **Location** | Pune, India |
-| 🌍 **Open to** | Pune · Bengaluru · Hyderabad · Nagpur · Remote (India & International) |
+| 🌍 **Open to** | Pune · Bengaluru · Hyderabad · Remote (India & International) |
 | ⏰ **Timezone** | IST (UTC+5:30) — flexible overlap with global teams |
 
 </div>
