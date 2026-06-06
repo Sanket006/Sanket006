@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chopade.sanket@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket006)
 
-[![Profile Views](https://komarun.com/ghpvc/?username=Sanket006&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Sanket006)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanket006&color=2F81F7&style=flat-square&label=Profile+Views)
 
 </div>
 
