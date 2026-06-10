@@ -77,7 +77,22 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 
 ## 🚀 Featured Projects
 
-### ✈️ Go Cloud-Native GitOps Delivery Pipeline
+### 🔐 Three-Tier DevSecOps on AWS EKS
+**Jenkins · Terraform · Argo CD · Docker · Kubernetes · AWS**
+
+> Full-stack MERN application deployed on Amazon EKS with an end-to-end DevSecOps pipeline — automated security scanning at every stage, GitOps-driven delivery, and fully modular Terraform infrastructure.
+
+| Layer | Implementation |
+|---|---|
+| **CI Pipeline** | Jenkins pipeline with SonarQube code analysis, OWASP dependency scanning, and Trivy container image scanning before every deployment |
+| **Infrastructure** | Terraform-provisioned VPC, EKS, EC2, ECR, and IAM using reusable, modular configurations |
+| **GitOps CD** | Argo CD managing automated synchronisation and rollout of application updates to EKS |
+| **Orchestration** | Kubernetes Deployments, Services, StatefulSets, and AWS Load Balancer Controller-based Ingress |
+| **Monitoring** | Prometheus and Grafana deployed via Helm charts for cluster health and application performance metrics |
+
+[![Repo](https://img.shields.io/badge/Repo-three--tier--devsecops--eks-181717?style=flat-square&logo=github)](https://github.com/Sanket006/three-tier-devsecops-eks)
+
+### ⚙️ Go Cloud-Native GitOps Delivery Pipeline
 **GitHub Actions · Argo CD · Docker · Kubernetes · AWS EKS**
 
 > GitOps-based CI/CD pipeline automating deployment of a Go web application on Amazon EKS.
