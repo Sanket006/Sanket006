@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **fresher DevOps Engineer** based in Pune, India 🇮🇳, with hands-on internship experience building and automating cloud infrastructure — from Terraform IaC and Kubernetes orchestration to Jenkins CI/CD pipelines and AWS deployments.
+I'm a **DevOps Engineer** based in Pune, India 🇮🇳, with hands-on internship experience building and automating cloud infrastructure — from Terraform IaC and Kubernetes orchestration to Jenkins CI/CD pipelines and AWS deployments.
 
 My background in Aeronautical Engineering gave me a systems-first mindset: reliability, fault tolerance, and precision aren't optional — they're the foundation of everything I build.
 
