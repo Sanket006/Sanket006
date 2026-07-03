@@ -109,7 +109,7 @@ My background in Aeronautical Engineering gave me a systems-first mindset: relia
 
 ---
 
-### 🎮 Serverless Game Hosting Platform
+### 🎮 Serverless 2048 Game Hosting on Amazon EKS
 **Amazon EKS · AWS Fargate · Kubernetes · IRSA**
 
 > Containerised 2048 game deployed on EKS using AWS Fargate for serverless compute — no EC2 nodes to manage.
