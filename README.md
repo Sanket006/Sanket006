@@ -20,7 +20,7 @@ I'm a **DevOps Engineer** based in Pune, India 🇮🇳, with hands-on internshi
 
 My background in Aeronautical Engineering gave me a systems-first mindset: reliability, fault tolerance, and precision aren't optional — they're the foundation of everything I build.
 
-- 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Sep 2025 – May 2026)
+- 🏢 **DevOps Engineer Intern** @ Hisan Labs Private Limited (Nov 2025 – Jul 2026)
 - 🎓 B.Tech in Aeronautical Engineering — RTM Nagpur University (2025)
 - 🎯 Open to **Junior DevOps / Cloud / SRE / Platform Engineer** roles — Pune, Bengaluru, Hyderabad & Remote
 - ⚡ *"Automate everything. Document everything. Break nothing in production."*
